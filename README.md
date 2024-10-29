@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Lubuntu / Lxqt with Kwin / Adjustment](https://samwhelp.github.io/lubuntu-lxqt-with-kwin-adjustment/) | [GitHub](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment) |
 | [Lubuntu / Lxqt with Kwin / 探索筆記](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu-lxqt-with-kwin) |
+| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
 
 
 
@@ -66,7 +67,6 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
 | [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [KDE Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
 | [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
