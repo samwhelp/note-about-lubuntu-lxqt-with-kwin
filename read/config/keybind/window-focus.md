@@ -92,3 +92,4 @@ LayoutName=coverswitch
 ## 用法對照
 
 * [工作空間切換](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/config/keybind/workspace-switch.html)
+* [系統選單](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/config/keybind/system-menu.html)

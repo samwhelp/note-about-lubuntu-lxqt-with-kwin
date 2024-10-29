@@ -17,7 +17,8 @@ grand_parent: 設定
 ## 主題
 
 * [切換「顯示桌面」](#切換顯示桌面)
-* [登出或關閉系統](#登出或關閉系統)
+* [離開系統選單](#離開系統選單)
+* [登出確認對話框](#登出確認對話框)
 * [鎖住螢幕](#鎖住螢幕)
 * [顯示「工作空間選單」](#顯示工作空間選單)
 * [切換「顯示目前工作空間的所有視窗預覽」](#切換顯示目前工作空間的所有視窗預覽)
@@ -41,14 +42,33 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 
 
 
-## 登出或關閉系統
+## 離開系統選單
 
 | 按鍵組合           | 功能                 | 執行指令               |
 | ------------------ | -------------------- | ---------------------- |
-| `Alt + Shift + x`  | 顯示「離開系統選單」 | `lxqt-leave --logout`  |
+| `Alt + Shift + z`  | 顯示「離開系統選單」 | `lxqt-leave`  |
 
 
-* [設定片段: ~/.config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L6-L8)
+* [設定片段: ~/.config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L240-L243)
+
+``` ini
+[Alt%2BShift%2BZ]
+Comment=Leave
+Enabled=true
+Exec=lxqt-leave
+```
+
+
+
+
+## 登出確認對話框
+
+| 按鍵組合           | 功能                 | 執行指令               |
+| ------------------ | -------------------- | ---------------------- |
+| `Alt + Shift + x`  | 顯示「登出確認對話框」 | `lxqt-leave --logout`  |
+
+
+* [設定片段: ~/.config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L245-L248)
 
 ``` ini
 [Alt%2BShift%2BX]
@@ -56,6 +76,7 @@ Comment=Logout
 Enabled=true
 Exec=lxqt-leave, --logout
 ```
+
 
 
 
