@@ -41,18 +41,18 @@ parent: 一覽表
 
 ## 系統操作
 
-| 按鍵組合           | 功能                                    | 執行指令                   |
-| ------------------ | --------------------------------------- | -------------------------- |
-| `Alt + Shift + x`  | 顯示「離開系統選單」                    | `lxqt-leave --logout`          |
-| `Alt + Shift + l`  | 鎖住螢幕                                | `lxqt-leave --lockscreen`      |
-| `Win + d`          | 切換「顯示桌面」                        | `Show Desktop=`            |
-| `Win + grave`      | 顯示「工作空間預覽」                    | `Overview=`         |
-| `Win + Tab`        | 切換「顯示目前工作空間的所有視窗預覽」  | `Expose=`                  |
-| `Alt + F1`         | 顯示「應用程式啟動選單」                | `path=/panel/fancymenu/show_hide`          |
-| `Alt + F3`         | 顯示「視窗操作選單」                    | `Window Operations Menu=`  |
-| `Alt + Space`      | 顯示「視窗操作選單」                    | `Window Operations Menu=`  |
-| `Win + c`          | 顯示「所有開啟視窗預覽」                | `ExposeAll=`               |
-| `Alt + F2`         | 執行 lxqt-runner                            | `path=/runner/show_hide_dialog`                  |
+| 按鍵組合           | 功能                                    | 執行指令                           |
+| ------------------ | --------------------------------------- | ---------------------------------- |
+| `Alt + Shift + x`  | 顯示「離開系統選單」                    | `lxqt-leave --logout`              |
+| `Alt + Shift + l`  | 鎖住螢幕                                | `lxqt-leave --lockscreen`          |
+| `Win + d`          | 切換「顯示桌面」                        | `Show Desktop=`                    |
+| `Win + grave`      | 顯示「工作空間預覽」                    | `Overview=`                        |
+| `Win + Tab`        | 切換「顯示目前工作空間的所有視窗預覽」  | `Expose=`                          |
+| `Alt + F1`         | 顯示「應用程式啟動選單」                | `path=/panel/fancymenu/show_hide`  |
+| `Alt + F3`         | 顯示「視窗操作選單」                    | `Window Operations Menu=`          |
+| `Alt + Space`      | 顯示「視窗操作選單」                    | `Window Operations Menu=`          |
+| `Win + c`          | 顯示「所有開啟視窗預覽」                | `ExposeAll=`                       |
+| `Alt + F2`         | 執行 lxqt-runner                        | `path=/runner/show_hide_dialog`    |
 
 
 
@@ -72,10 +72,10 @@ parent: 一覽表
 
 | 按鍵組合           | 功能           | 執行指令           |
 | ------------------ | -------------- | ------------------ |
-| `Alt + Enter`      | 開啟 Terminal  | `sakura`  |
-| `Alt + Shift + a`  | 開啟 Terminal  | `sakura`  |
-| `Alt + Ctrl + a`   | 開啟 Terminal  | `xfce4-terminal`           |
-| `Alt + Shift + t`  | 開啟 Terminal  | `konsole`   |
+| `Alt + Enter`      | 開啟 Terminal  | `sakura`           |
+| `Alt + Shift + a`  | 開啟 Terminal  | `sakura`           |
+| `Alt + Ctrl + a`   | 開啟 Terminal  | `xfce4-terminal`   |
+| `Alt + Shift + t`  | 開啟 Terminal  | `konsole`          |
 | `Alt + Ctrl + t`   | 開啟 Terminal  | `qterminal`        |
 
 
@@ -85,11 +85,11 @@ parent: 一覽表
 
 | 按鍵組合           | 功能            | 執行指令                         |
 | ------------------ | --------------- | -------------------------------- |
-| `Alt + Shift + f`  | 開啟檔案管理器  | `pcmanfm-qt`             |
-| `Alt + Shift + g`  | 開啟檔案管理器  | `thunar`                     |
-| `Alt + Shift + e`  | 開啟文字編輯器  | `featherpad`              |
+| `Alt + Shift + f`  | 開啟檔案管理器  | `pcmanfm-qt`                     |
+| `Alt + Shift + g`  | 開啟檔案管理器  | `thunar`                         |
+| `Alt + Shift + e`  | 開啟文字編輯器  | `featherpad`                     |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox --new-tab about:blank`  |
-| `Alt + Shift + s`  | 開啟系統設定    | `lxqt-config`                |
+| `Alt + Shift + s`  | 開啟系統設定    | `lxqt-config`                    |
 
 
 
