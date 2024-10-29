@@ -20,6 +20,7 @@
 * [按鍵綁定](#按鍵綁定)
 * [概覽](#概覽)
 * [一覽表](#一覽表)
+* [如何](#如何)
 * [相關筆記](#相關筆記)
 
 
@@ -62,6 +63,15 @@
 | [一覽表](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/cheatsheet.html) |
 | ----- |
 | [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/cheatsheet/keybind.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/howto.html) |
+| ----- |
+| [設定「Window Decoration」](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/howto/config-window-decoration.html) |
 
 
 
