@@ -63,7 +63,7 @@ Exec=lxqt-leave, --logout
 
 | 按鍵組合           | 功能         | 執行指令              |
 | ------------------ | ------------ | --------------------- |
-| `Alt + Shift + l`  | 鎖住螢幕     | `lubuntu-lxqt-with-kwin-screenlocker` |
+| `Alt + Shift + l`  | 鎖住螢幕     | `lxqt-leave --lockscreen` |
 
 
 * [設定片段: ~/.config/lxqt/globalshortcutsrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L235-L238)
