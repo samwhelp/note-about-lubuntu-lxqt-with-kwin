@@ -41,16 +41,17 @@ Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Re
 ```
 
 
-> 目前這組切換的顯示效果，是設定採用「`ling_thumbnail`」
-
-> 關於「`ling_thumbnail`」是放在「[/usr/share/kwin/tabbox/ling_thumbnail](https://github.com/lubuntu-lxqt-with-kwinOS/lubuntu-lxqt-with-kwin-kwin-plugins/tree/main/tabbox/ling_thumbnail)」這個資料夾。
+> 目前這組切換的顯示效果，是設定採用「`big_icons`」。
 
 
-* [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/kwinrc#L59-L60)
+> 關於「`big_icons`」是放在「`/usr/share/kwin/tabbox/big_icons`」這個資料夾。
+
+
+* [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/kwinrc#L55-L56)
 
 ``` ini
 [TabBox]
-LayoutName=ling_thumbnail
+LayoutName=big_icons
 ```
 
 
@@ -72,14 +73,17 @@ Walk Through Windows Alternative (Reverse)=Alt+Esc,none,Walk Through Windows Alt
 ```
 
 
-> 目前這組切換的顯示效果，是設定採用「`present_windows`」
+> 目前這組切換的顯示效果，是設定採用「`coverswitch`」。
 
 
-* [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/kwinrc#L62-L63)
+> 關於「`coverswitch`」是放在「`/usr/share/kwin/tabbox/coverswitch`」這個資料夾。
+
+
+* [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/kwinrc#L58-L59)
 
 ``` ini
 [TabBoxAlternative]
-LayoutName=present_windows
+LayoutName=coverswitch
 ```
 
 

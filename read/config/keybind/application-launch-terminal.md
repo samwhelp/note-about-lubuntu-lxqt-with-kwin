@@ -26,18 +26,18 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Enter`     | 開啟 Terminal | `sakura`           |
+| `Alt + Enter`     | 開啟 Terminal | `sakura`                    |
 
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Shift + a` | 開啟 Terminal | `sakura`           |
-| `Alt + Ctrl + a`  | 開啟 Terminal | `xfce4-terminal`                    |
+| `Alt + Shift + a` | 開啟 Terminal | `sakura`                    |
+| `Alt + Ctrl + a`  | 開啟 Terminal | `xfce4-terminal`            |
 
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Shift + t` | 開啟 Terminal | `konsole`            |
+| `Alt + Shift + t` | 開啟 Terminal | `konsole`                   |
 | `Alt + Ctrl + t`  | 開啟 Terminal | `qterminal`                 |
 
 

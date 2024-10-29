@@ -26,11 +26,11 @@ grand_parent: 設定
 
 | 按鍵組合           | 功能            | 執行指令                         |
 | ------------------ | --------------- | -------------------------------- |
-| `Alt + Shift + f`  | 開啟檔案管理器  | `pcmanfm-qt`             |
-| `Alt + Shift + g`  | 開啟檔案管理器  | `thunar`                     |
-| `Alt + Shift + e`  | 開啟文字編輯器  | `featherpad`              |
+| `Alt + Shift + f`  | 開啟檔案管理器  | `pcmanfm-qt`                     |
+| `Alt + Shift + g`  | 開啟檔案管理器  | `thunar`                         |
+| `Alt + Shift + e`  | 開啟文字編輯器  | `featherpad`                     |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox --new-tab about:blank`  |
-| `Alt + Shift + s`  | 開啟系統設定    | `lxqt-config`                |
+| `Alt + Shift + s`  | 開啟系統設定    | `lxqt-config`                    |
 
 
 * [設定片段: ~/.config/lxqt/globalshortcutsrc](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L290-L308)

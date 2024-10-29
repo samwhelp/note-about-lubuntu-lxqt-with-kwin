@@ -43,9 +43,9 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 
 ## 登出或關閉系統
 
-| 按鍵組合           | 功能                 | 執行指令             |
-| ------------------ | -------------------- | -------------------- |
-| `Alt + Shift + x`  | 顯示「離開系統選單」 | `lxqt-leave --logout`    |
+| 按鍵組合           | 功能                 | 執行指令               |
+| ------------------ | -------------------- | ---------------------- |
+| `Alt + Shift + x`  | 顯示「離開系統選單」 | `lxqt-leave --logout`  |
 
 
 * [設定片段: ~/.config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L6-L8)

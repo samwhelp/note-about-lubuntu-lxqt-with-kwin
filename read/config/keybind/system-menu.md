@@ -25,9 +25,9 @@ grand_parent: 設定
 
 ## 顯示「應用程式啟動選單」
 
-| 按鍵組合          | 功能                     | 執行指令             |
-| ----------------- | ------------------------ | -------------------- |
-| `Alt + F1`        | 顯示「應用程式啟動選單」 | `path=/panel/fancymenu/show_hide`    |
+| 按鍵組合          | 功能                     | 執行指令                           |
+| ----------------- | ------------------------ | ---------------------------------- |
+| `Alt + F1`        | 顯示「應用程式啟動選單」 | `path=/panel/fancymenu/show_hide`  |
 
 
 > 因為我個人會使用「`Win鍵`」搭配「其他鍵」當作「組合鍵」來做一些操作，為了避免干擾，
@@ -90,9 +90,9 @@ ExposeAll=Ctrl+F10\tMeta+C\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windo
 
 ## lxqt-runner
 
-| 按鍵組合          | 功能         | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + F2`        | 執行 lxqt-runner | `path=/runner/show_hide_dialog`            |
+| 按鍵組合          | 功能              | 執行指令                         |
+| ----------------- | ----------------- | -------------------------------- |
+| `Alt + F2`        | 執行 lxqt-runner  | `path=/runner/show_hide_dialog`  |
 
 * [設定片段: ~/config/lxqt/globalkeyshortcuts.conf](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/blob/main/prototype/main/lxqt-config/Main/asset/overlay/etc/skel/.config/lxqt/globalkeyshortcuts.conf#L15-L18)
 
