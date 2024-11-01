@@ -27,4 +27,5 @@ parent: 佈景主題
 | [Orchis](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Orchis.html) |
 | [Graphite](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Graphite.html) |
 | [Vimix](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Vimix.html) |
+| [Layan](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Layan.html) | [Layan](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Layan.html) |
 | [Fluent](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Fluent.html) |
