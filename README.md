@@ -55,6 +55,12 @@
 
 | 微調腳本 |
 | -------- |
+| [Kvantum-Layan-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Layan-Dark-Fancy-Menu) |
+| [Kvantum-Layan-Light-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Layan-Light-Fancy-Menu) |
+
+
+| 微調腳本 |
+| -------- |
 | [Kvantum-Graphite-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Graphite-Dark-Fancy-Menu) |
 | [Kvantum-Graphite-Light-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Graphite-Light-Fancy-Menu) |
 
