@@ -43,6 +43,7 @@
 | 微調腳本 |
 | -------- |
 | [Kvantum-Orchis-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Kvantum-Orchis-Light-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Orchis-Light-Fancy-Menu) |
 | [Kvantum-Orchis-Dark-Main-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Orchis-Dark-Main-Menu) |
 
 
@@ -56,6 +57,12 @@
 | -------- |
 | [Kvantum-Graphite-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Graphite-Dark-Fancy-Menu) |
 | [Kvantum-Graphite-Light-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Graphite-Light-Fancy-Menu) |
+
+
+| 微調腳本 |
+| -------- |
+| [Kvantum-Fluent-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Fluent-Dark-Fancy-Menu) |
+| [Kvantum-Fluent-Light-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Fluent-Light-Fancy-Menu) |
 
 
 
