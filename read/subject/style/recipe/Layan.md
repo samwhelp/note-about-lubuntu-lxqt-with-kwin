@@ -43,8 +43,7 @@ grand_parent: 外觀設定
 | [Layan-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Dark-with-icon-Citrus-Dark-Red) |
 | [Layan-Dark-with-icon-Citrus-Dark-Blue](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Dark-with-icon-Citrus-Dark-Blue) |
 | [Layan-Dark-with-icon-Citrus-Dark-Purple](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Dark-with-icon-Citrus-Dark-Purple) |
-
-
+| [Layan-Dark-with-icon-Citrus-Dark-Yellow](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Dark-with-icon-Citrus-Dark-Yellow) |
 
 
 | 設定腳本 |
@@ -52,6 +51,7 @@ grand_parent: 外觀設定
 | [Layan-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Light-with-icon-Citrus-Light-Red) |
 | [Layan-Light-with-icon-Citrus-Light-Blue](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Light-with-icon-Citrus-Light-Blue) |
 | [Layan-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Light-with-icon-Citrus-Light-Purple) |
+| [Layan-Light-with-icon-Citrus-Light-Yellow](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/style-config/switch/Layan/Layan-Light-with-icon-Citrus-Light-Yellow) |
 
 
 
