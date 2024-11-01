@@ -21,6 +21,8 @@
 * [概覽](#概覽)
 * [一覽表](#一覽表)
 * [如何](#如何)
+* [佈景主題](read/subject/theme)
+* [外觀設定](#外觀設定)
 * [相關筆記](#相關筆記)
 
 
@@ -72,6 +74,18 @@
 | [如何](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/howto.html) |
 | ----- |
 | [設定「Window Decoration」](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/howto/config-window-decoration.html) |
+
+
+
+
+## 外觀設定
+
+| [外觀設定樣式](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe.html) | [佈景主題來源](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source.html) |
+| ---------- | ---------- |
+| [Orchis](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Orchis.html) |
+| [Graphite](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Graphite.html) |
+| [Vimix](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Vimix.html) |
+| [Fluent](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/style/recipe/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme/source/Fluent.html) |
 
 
 
