@@ -20,9 +20,14 @@
 * [按鍵綁定](#按鍵綁定)
 * [概覽](#概覽)
 * [一覽表](#一覽表)
+* [語系](read/subject/locale)
+* [字型](#字型)
+* [輸入法](#輸入法)
 * [如何](#如何)
 * [佈景主題](read/subject/theme)
 * [外觀設定](#外觀設定)
+* [工具](read/subject/tool)
+* [連結](read/link)
 * [相關筆記](#相關筆記)
 
 
@@ -65,6 +70,26 @@
 | [一覽表](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/cheatsheet.html) |
 | ----- |
 | [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/cheatsheet/keybind.html) |
+
+
+
+
+## 字型
+
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/font-config/font-match-order) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+| [嘸蝦米輸入法](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | [微調腳本](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
+| [輕鬆輸入法](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | [微調腳本](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) |
 
 
 
