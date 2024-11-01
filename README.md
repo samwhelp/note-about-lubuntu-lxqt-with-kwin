@@ -43,6 +43,7 @@
 | 微調腳本 |
 | -------- |
 | [Kvantum-Orchis-Dark-Fancy-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Kvantum-Orchis-Dark-Main-Menu](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Kvantum-Orchis-Dark-Main-Menu) |
 
 
 | 微調腳本 |
