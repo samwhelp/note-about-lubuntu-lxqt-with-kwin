@@ -25,7 +25,7 @@ grand_parent: 概覽
 
 一開始我們要先學會怎麼關機。
 
-除了可以在「Fancy Menu」找到「離開系統選單」。
+除了可以在「`Fancy Menu`」找到「`離開系統選單`」。
 
 我們也可以在鍵盤按下「`Alt + Shift + z`」，就會執行「`lxqt-leave`」，
 

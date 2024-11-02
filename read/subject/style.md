@@ -18,4 +18,4 @@ has_children: true
 
 | 相關議題 |
 | ------- |
-| [佈景主題](https://samwhelp.github.io/note-about-lingmo/read/subject/theme.html) |
+| [佈景主題](https://samwhelp.github.io/note-about-lubuntu-lxqt-with-kwin/read/subject/theme.html) |
